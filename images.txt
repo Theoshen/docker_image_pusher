@@ -17,3 +17,5 @@ docker.io/wangqiru/ttrss:latest
 docker.io/wangqiru/mercury-parser-api:latest
 docker.io/wangqiru/opencc-api-server:latest
 docker.io/postgres:13-alpine
+#memos
+docker.io/neosmemo/memos:latest
